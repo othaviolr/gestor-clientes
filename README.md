@@ -43,8 +43,8 @@ Escolha uma opção: 1
 
 Lista de clientes:
 ID: 0
-Nome: João Silva
-Email: joao@email.com
+Nome: Othávio Nogueira
+Email: othavio@email.com
 CPF: 123.456.789-00
 =======================
 Aperte enter para sair.
