@@ -55,8 +55,4 @@ Aperte enter para sair.
 - Implementação de interface gráfica
 - Persistência em banco de dados
 - Opção de editar dados do cliente
-
-## Observação
-O projeto utiliza `BinaryFormatter`, que está obsoleto e pode apresentar riscos de segurança. Para projetos futuros, recomenda-se utilizar formatos de serialização modernos, como JSON.
-
 ---
