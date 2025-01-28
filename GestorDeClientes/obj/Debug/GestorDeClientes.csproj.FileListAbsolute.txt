@@ -1,0 +1,7 @@
+E:\Estudos CSHARP\Projetos\GestorDeClientes\GestorDeClientes\GestorDeClientes\bin\Debug\GestorDeClientes.exe.config
+E:\Estudos CSHARP\Projetos\GestorDeClientes\GestorDeClientes\GestorDeClientes\bin\Debug\GestorDeClientes.exe
+E:\Estudos CSHARP\Projetos\GestorDeClientes\GestorDeClientes\GestorDeClientes\bin\Debug\GestorDeClientes.pdb
+E:\Estudos CSHARP\Projetos\GestorDeClientes\GestorDeClientes\GestorDeClientes\obj\Debug\GestorDeClientes.csproj.AssemblyReference.cache
+E:\Estudos CSHARP\Projetos\GestorDeClientes\GestorDeClientes\GestorDeClientes\obj\Debug\GestorDeClientes.csproj.CoreCompileInputs.cache
+E:\Estudos CSHARP\Projetos\GestorDeClientes\GestorDeClientes\GestorDeClientes\obj\Debug\GestorDeClientes.exe
+E:\Estudos CSHARP\Projetos\GestorDeClientes\GestorDeClientes\GestorDeClientes\obj\Debug\GestorDeClientes.pdb
